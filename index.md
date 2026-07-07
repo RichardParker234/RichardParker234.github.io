@@ -1,5 +1,5 @@
-<h1 style="font-family: Verdana;">FindLonelyLocals</h1>
+<h1 style="font-family: Hoefler Text;">FindLonelyLocals</h1>
 
-<p style="font-family: 'Courier New';">
+<p style="font-family: Hoefler Text;">
 This site was last updated on July 3, 2006. Its creator, Richard Parker, welcomes you to this fascinating world of commercial properties for sale. Feel free to browse, but don't get too lost. If you arrive after July 10, 2006, please note that the site no longer sells commercial properties.
 </p>
